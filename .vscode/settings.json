@@ -1,0 +1,9 @@
+{
+  "workbench.colorTheme": "SynthWave '84",
+  "workbench.colorCustomizations": {
+    "contrastBorder": "#FF1A1A",
+    "focusBorder": "#00FFFF",
+    "notebook.cellBorderColor": "#FF003C"
+  },
+  "cSpell.words": ["mzsrdii", "portabletext"]
+}
