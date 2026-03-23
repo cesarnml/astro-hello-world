@@ -5,5 +5,14 @@
     "focusBorder": "#00FFFF",
     "notebook.cellBorderColor": "#FF003C"
   },
+  "editor.quickSuggestions": {
+    "strings": "on"
+  },
+  "tailwind-fold.autoFold": false,
+  "tailwind-fold.supportedLanguages": ["astro"],
+  "tailwindCSS.includeLanguages": {
+    "astro": "html"
+  },
+  "tailwindCSS.experimental.configFile": "src/styles/global.css",
   "cSpell.words": ["mzsrdii", "portabletext"]
 }
